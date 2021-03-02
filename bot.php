@@ -2,10 +2,9 @@
 /*
 In the name of god
 source: file uploader
-dev: factweb team
+dev: TuranFilm
 v1
-factweb.ir
-@factweb
+@ilqar_TurkSoy
 */
 date_default_timezone_set('Asia/Tehran');
 error_reporting(0);
