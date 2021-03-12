@@ -13,7 +13,7 @@ set_time_limit(0);
 $Config = [
     'api_token' => "1685549909:AAHKaNwoO2NMvjNRh-4MHJyWwZx7JerY-rk", // توکن خود را اینجا وارد کنید
     'admin' => [965221088, 682942717, 0000000000], // ایدی عددی ادمین ها را اینجا وارد کنید
-    'channel' => "https://t.me/joinchat/TJFVoEZ2uFuxQGi4" // ایدی کانال را بدون @ اینجا وارد کنید
+    'channel' => "TuranMovies" // ایدی کانال را بدون @ اینجا وارد کنید
 ];
 $Database = [
     'dbname' => "3762121_wpress853e5d20", // نام دیتابیس را اینجا وارد کنید
