@@ -16,9 +16,7 @@ $Config = [
     'channel' => "TuranMovies" // ایدی کانال را بدون @ اینجا وارد کنید
 ];
 $Database = [
-    'dbname' => "3762121_wpress853e5d20", // نام دیتابیس را اینجا وارد کنید
-    'username' => "3762121_wpress853e5d20", //یوزرنیم دیتابیس را اینجاوارد کنید
-    'password' => "Qaradag1@2#3&" //پسورد دیتابیس را اینجا وارد کنید
+mongodb+srv://ilqarturksoy:ilqarturksoy@cluster0.b862h.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 ];
 $MySQLi = mysqli_connect('localhost', $Database['username'], $Database['password'], $Database['dbname']);
 // ------------------ { Functions } ------------------ //
